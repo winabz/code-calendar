@@ -58,5 +58,3 @@ with open("input.txt", "r") as my_file:
 			line_index += 1
 
 	finding_empty_place()
-
-	
